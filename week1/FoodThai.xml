@@ -3,50 +3,50 @@
           <FoodID>001</FoodID>
           <FoodName>ผัดไทย</FoodName>
           <price>120 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>002</FoodID>
           <FoodName>แกงเขียวหวาน</FoodName>
           <price>250 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>003</FoodID>
           <FoodName>ข้าวคลุกกะปิ</FoodName>
           <price>150 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>004</FoodID>
           <FoodName>ปลาร้าทรงเครื่อง</FoodName>
           <price>150 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>005</FoodID>
           <FoodName>ปลาดุกผัดพริกขิง</FoodName>
           <price>150 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>006</FoodID>
           <FoodName>น้ำพริกกะปิ</FoodName>
           <price>120 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>007</FoodID>
           <FoodName>ต้มข่าไก่</FoodName>
           <price>150 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>008</FoodID>
           <FoodName>กุ้งทอดซอสมะขาม</FoodName>
           <price>200 บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>009</FoodID>
           <FoodName>ปูผัดผงกระหรี่</FoodName>
           <price>250บาท</price>
-    </thaifood>
+    </Thaifood>
     <ThaiFood>
           <FoodID>010</FoodID>
           <FoodName>กุ้งผัดสะตอ</FoodName>
           <price>220 บาท</price>
-    </thaifood>
+    </Thaifood>
 </food>   
